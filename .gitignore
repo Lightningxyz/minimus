@@ -1,0 +1,8 @@
+# Build files
+*.o
+*.bin
+*.img
+*.iso
+
+# macOS junk
+.DS_Store
