@@ -1,8 +1,10 @@
-# Build files
+# Build artifacts
 *.o
 *.bin
+*.elf
 *.img
 *.iso
+
 
 # macOS junk
 .DS_Store
