@@ -1,6 +1,8 @@
 # Minimus OS
 
-Minimus OS is a minimal, 32-bit x86 operating system built from scratch using C and x86 Assembly. Designed as an educational project, it operates in 32-bit Protected Mode and provides a fundamental system environment including a kernel, basic hardware drivers, and a command-line interface.
+![Minimus OS Showcase](showcase.png)
+
+Minimus OS is a minimal, 32-bit x86 operating system built from scratch using C and x86 Assembly. Designed as an educational project, it operates in 32-bit Protected Mode and provides a fundamental system environment including a kernel, basic hardware drivers, and an interactive command-line interface.
 
 ## Architecture and Features
 
