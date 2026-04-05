@@ -1,6 +1,6 @@
 # Minimus OS
 
-Minimus OS is a minimal, 32-bit x86 operating system built from scratch using C and x86 Assembly. Designed as an educational project, it operates in 32-bit Protected Mode and provides a fundamental system environment including a kernel, basic hardware drivers, and an interactive command-line interface.
+Minimus OS is a minimal, 32-bit x86 operating system built from scratch using C and x86 Assembly. Designed as an educational project, it operates in 32-bit Protected Mode and provides a fundamental system environment including a kernel, basic hardware drivers, and a command-line interface.
 
 ## Architecture and Features
 
@@ -22,6 +22,3 @@ Minimus OS boots directly into an interactive shell environment that provides th
 *   `about`: Displays system version and build information.
 *   `reboot`: Issues a hardware reset to restart the machine.
 
-## Repository
-
-Source code is available at: [https://github.com/Lightningxyz/minimus](https://github.com/Lightningxyz/minimus)
